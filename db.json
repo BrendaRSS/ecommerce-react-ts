@@ -1,0 +1,67 @@
+{
+    "products":[
+      {
+        "id": "f14f3e28-8a07-4b44-95e1-4fb7d7547fb1",
+        "nome": "Bolo de Chocolate",
+        "descrição": "Delicioso bolo de chocolate, perfeito para qualquer festa.",
+        "valor": 2500,
+        "image":"https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "28eb35e4-60df-4b91-af05-ee0130d6d67c",
+        "nome": "Bolo de Morango",
+        "descrição": "Um bolo fresco com camadas de massa macia e recheio de morango.",
+        "valor": 2800,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "fae8c89b-1a7f-4c0b-b572-6d83f27ac738",
+        "nome": "Bolo de Limão",
+        "descrição": "Bolo leve e cítrico, perfeito para os amantes de limão.",
+        "valor": 2700,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "c05a68f7-188a-4452-bb84-0a5480d84838",
+        "nome": "Bolo Red Velvet",
+        "descrição": "Um bolo elegante com sabor único e irresistível.",
+        "valor": 3000,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "a7905fb3-c68c-4943-b5b0-c641df0e4028",
+        "nome": "Bolo de Coco",
+        "descrição": "Um bolo macio e úmido com sabor tropical de coco.",
+        "valor": 2600,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "bf7b13e0-94b3-4b1a-bc1b-2f66917ad539",
+        "nome": "Bolo de Baunilha",
+        "descrição": "Clássico bolo de baunilha com uma textura fofa e sabor suave.",
+        "valor": 2900,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "d5fe4346-b495-4872-b493-2d73f5b65d5d",
+        "nome": "Bolo de Cenoura",
+        "descrição": "Bolo de cenoura coberto com uma camada de glacê de cream cheese.",
+        "valor": 2700,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "b997b04f-9f51-4cb3-9149-5de2d80e8c86",
+        "nome": "Bolo de Nozes",
+        "descrição": "Um bolo rico e aromático, recheado com nozes crocantes.",
+        "valor": 3100,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      },
+      {
+        "id": "f367cc1f-6344-4628-bdc3-08a4a0b4639f",
+        "nome": "Bolo de Frutas",
+        "descrição": "Bolo tradicional de frutas com frutas cristalizadas.",
+        "valor": 3200,
+        "image": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg"
+      }
+    ]
+}
